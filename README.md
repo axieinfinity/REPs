@@ -11,7 +11,7 @@ Here is the list of subjects of REPs:
 | [REP-0003](REP-0003/REP-0003.md) | Optimistic Fast Finality                                   | Standard   | Executed  |
 | [REP-0004](REP-0004/REP-0004.md) | Profile Contract                                           | Standard   | Approved  |
 | [REP-0005](REP-0005/REP-0005.md) | Node discovery via DNS                                     | Network    | Executed  |
-| [REP-0006](REP-0006/REP-0006.md) | NFT bridge                                                 | Bridge     | Draft     |
+| [REP-0006](REP-0006/REP-0006.md) | NFT bridge                                                 | Bridge     | Approved  |
 | [REP-0007](REP-0007/REP-0007.md) | Implement EIP-2718 (Typed Transaction Envelope)            | Standard   | Draft     |
 | [REP-0008](REP-0008/REP-0008.md) | Sponsoring transaction                                     | Standard   | Draft     |
 
