@@ -14,4 +14,4 @@ Here is the list of subjects of REPs:
 | [REP-0006](REP-0006/REP-0006.md) | NFT bridge                                                 | Bridge     | Approved  |
 | [REP-0007](REP-0007/REP-0007.md) | Implement EIP-2718 (Typed Transaction Envelope)            | Standard   | Draft     |
 | [REP-0008](REP-0008/REP-0008.md) | Sponsoring transaction                                     | Standard   | Draft     |
-
+| [REP-0009](REP-0009/REP-0009.md) | Ether staking on Ronin Network                             | Bridge     | Draft     |
