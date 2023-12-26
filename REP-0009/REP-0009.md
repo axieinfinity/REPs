@@ -20,8 +20,6 @@ This will allow users that opt into this scheme to earn eth rewards via the valu
 
 As of today's writing, a little over 34,161 ether is seating on the Ronin Bridge V2 contract. With an average of 4% apy for staking ether via validation, the ether in the bridge could generate up to around 1,366 ether. Those rewards can be distributed to users as well the AXS treasury and bridge operators.
 
-The AXS treasury today holds a substantial amount of WETH. Having this system enabled would allow for this WETH to be put in good use and generate more incentivised rewards for active gameplay.
-
 
 ## Specification
 
