@@ -16,3 +16,5 @@ Here is the list of subjects of REPs:
 | [REP-0008](REP-0008/REP-0008.md) | Sponsoring transaction                                     | Standard   | Approved  |
 | [REP-0009](REP-0009/REP-0009.md) | Ether staking on Ronin Network                             | Bridge     | Approved  |
 | [REP-0010](REP-0010/REP-0010.md) | REP-0010: Introducing Rotating Validators                  | Standard   | Approved  |
+| [REP-0011](REP-0011/REP-0011.md) | REP-0011: Ronin Buyback and Burn Proposal                  | Standard   | Draft     |
+
