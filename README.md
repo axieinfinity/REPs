@@ -17,5 +17,5 @@ Here is the list of subjects of REPs:
 | [REP-0009](REP-0009/REP-0009.md) | Ether staking on Ronin Network                             | Bridge     | Approved  |
 | [REP-0010](REP-0010/REP-0010.md) | Introducing Rotating Validators                            | Standard   | Approved  |
 | [REP-0011](REP-0011/REP-0011.md) | Ronin Buyback and Burn Proposal                            | Standard   | Stagnant  |
-| [REP-0012](REP-0012/REP-0012.md) | Early exist in maintenance mode                            | Standard   | Draft     |
+| [REP-0012](REP-0012/REP-0012.md) | Early exit in maintenance mode                             | Standard   | Approved  |
 
