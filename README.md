@@ -1,3 +1,5 @@
+> We are moving the REPs repository to https://github.com/ronin-chain/REPs
+
 # REPs
 
 REP stands for Ronin Evolution Proposal. Each REP will be a proposal document providing information to the Ronin ecosystem and community.
